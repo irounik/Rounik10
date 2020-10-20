@@ -1,1 +1,1 @@
-Tech Ethusiast
+<h1> Tech </h1>
