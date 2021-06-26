@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm [Rounik](https://github.com/Rounik10/)
 
-I am Rounik Prashar, Currently pursuing Bachelor of Engineering in Computer Sceince 🎓. I'm a problem solving and tech enthusiast. Beside's programming, I am a partime Gamer and and night time Otaku.
+I am Rounik Prashar, Currently pursuing Bachelor of Technology in Computer Sceince and Engineering 🎓. I'm a problem solving and tech enthusiast. Beside's programming, I am a partime Gamer and and night time Otaku.
   
 ### More About Me:
 
